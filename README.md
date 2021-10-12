@@ -1,9 +1,9 @@
 ### About me
 
-I just earned my Ph.D. degree with my advisor [Prof. Chris Marianetti](http://www.chrismarianetti.org)
+I just earned my Ph.D. degree working with my advisor [Prof. Chris Marianetti](http://www.chrismarianetti.org)
 on [Thermodynamics of Interacting Phonons](https://doi.org/10.7916/d8-wkbr-m336)
 at Columbia University.
-We are currently developing a very optimized software that executes the methodologies described in the [paper](https://link.aps.org/doi/10.1103/PhysRevB.100.014303)
+We are currently developing a highly optimized software that executes the methodologies described in the [paper](https://link.aps.org/doi/10.1103/PhysRevB.100.014303)
 we published. It will be released soon. Stay tuned.
 
 #### Publications
