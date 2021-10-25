@@ -6,6 +6,17 @@ at Columbia University.
 We are currently developing a highly optimized software that executes the methodologies described in the [paper](https://link.aps.org/doi/10.1103/PhysRevB.100.014303)
 we published. It will be released soon. Stay tuned.
 
+#### Language and Tools
+
+<img alt="Python" width="26px" src="icons/python.svg"/>
+<img alt="HTML5" width="26px" src="icons/html5.svg"/>
+<img alt="C++" width="26px" src="icons/cplusplus.svg"/>
+<img alt="GitHub" width="26px" src="icons/github.svg"/>
+<img alt="Git" width="26px" src="icons/git.svg"/>
+<img alt="VIM" width="26px" src="icons/vim.svg"/>
+<img alt="LaTeX" width="26px" src="icons/latex.svg"/>
+<img alt="Terminal" width="26px" src="icons/gnubash.svg"/>
+
 #### Publications
 - **L. Fu**, M. Kornbluth, Z. Cheng, and C. A. Marianetti, Group theoretical approach to computing phonons and their interactions, _Phys. Rev. B_ 100, 014303 (2019). [[link](https://link.aps.org/doi/10.1103/PhysRevB.100.014303)]
 - X. Ding, T. Yao, **L. Fu**, Z. Hua, J. Harp, C.A. Marianetti, M. Neupane, M.E. Manley, D. Hurley, and K. Gofryk, Magnetic, transport and thermal properties of 𝛿-phase UZr2, _Phil. Mag. Lett._, 101(1), 1-11 (2020). [[link](https://doi.org/10.1080/09500839.2020.1833375)]
